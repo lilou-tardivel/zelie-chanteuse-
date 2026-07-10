@@ -1,0 +1,25 @@
+body{
+	background: #C196FF;
+	color: white;
+}
+h1{
+	color:white;
+	text-decoration: underline;
+	font-family: Calibri;
+}
+
+h4{
+	text-decoration: green wavy underline;
+	font-family: Arial;
+}
+
+img{
+	width: 250px;
+}
+
+ul{
+	list-style-type: circle;
+	}
+	footer{
+		background:#634C78;
+	}
